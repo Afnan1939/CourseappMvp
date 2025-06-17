@@ -1,16 +1,28 @@
-# courseraapp
+# 📚 Coursera App MVP Clone (Flutter + GetX)
 
-A new Flutter project.
+A minimal MVP version of a Coursera-like learning app built using **Flutter** and **GetX** for state management. Designed as part of a recruiter assignment.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔐 Firebase Authentication (Login/Logout)
+- 🎯 State management with GetX
+- 🏠 Main page with simple UI tabs
+- 📘 Course list with title and image
+- 📄 Course detail page
+- 🙋 Profile page with logout button
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- GetX
+- Firebase Auth
+- Dart
+- VS Code
+
+## 📝 Author
+
+- GitHub: [Afnan1939](https://github.com/Afnan1939)
+
+
+
